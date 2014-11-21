@@ -20,6 +20,7 @@ $roots_includes = array(
   'lib/nav.php',             // Custom nav modifications
   'lib/gallery.php',         // Custom [gallery] modifications
   'lib/scripts.php',         // Scripts and stylesheets
+  'lib/comments.php',         // Comments
   'lib/extras.php',          // Custom functions
 );
 
